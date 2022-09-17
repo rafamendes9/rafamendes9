@@ -5,7 +5,7 @@
 - Sou estudante de bacharelado em Ciência da Computação | ***UNICAP***.
 - Sou Operador autonomo na bolsa de valores | ***ANBIMA***.
 
-> 🌎 "Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso, ele está repleto de abstrações claras e linhas de controle objetivas."                                                                       ***by Grady Booch*** 🌍 
+> 🌎 "As pessoas bem-sucedidas estão 100% convencidas de que são mestres do seu próprio destino, não são criaturas de circunstâncias: elas criam circunstâncias, se as circunstâncias ao seu redor forçam para que elas mudem."                                                                       ***by:  O Lobo de Wall Street*** 🌍 
 
 ## 🚀 ***Redes Sociais*** ##
  <a href = "mailto: rafaellmn@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -51,7 +51,18 @@
  ```
  print("Conhecimento - interesse")
  ```
-
+ ## ***CSS*** ##
+ 
+ ```
+ console.log("Conhecimento - básico")
+ ```
+ 
+ ## ***HTML*** ##
+ 
+ ```
+ console.log("Conhecimento - básico")
+ ```
+ 
  ## ***JavaScript*** ##
  
  ```
