@@ -14,14 +14,7 @@
  <a href="https://www.linkedin.com/in/rafaell-mendes-766b5a242/"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
  ## ***Github Análise*** ##
- <a href="https://www.github.com/rafamendes9"><div style="display: inline_block">  
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamendes9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=16&theme=dark"/>
-  
- 
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafamendes9&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
 ## 👨🏻‍💻 ***Tecnologias*** ##
