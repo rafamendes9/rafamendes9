@@ -39,24 +39,24 @@
  ## ***Python*** ##
  
  ```
- print("Conhecimento - interesse")
+ print("Interesse")
  ```
  ## ***CSS*** ##
  
  ```
- console.log("Conhecimento - básico")
+ console.log("Interesse")
  ```
  
  ## ***HTML*** ##
  
  ```
- console.log("Conhecimento - básico")
+ console.log("Interesse")
  ```
  
  ## ***JavaScript*** ##
  
  ```
- console.log("Conhecimento - básico")
+ console.log("Interesse")
  ```
  
  
