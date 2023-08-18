@@ -5,7 +5,7 @@
 - Sou estudante de bacharelado em Ciência da Computação | ***UNICAP***.
 - Sou Operador autonomo na bolsa de valores | ***ANBIMA***.
 
-> 🌎 "As pessoas bem-sucedidas estão 100% convencidas de que são mestres do seu próprio destino, não são criaturas de circunstâncias: elas criam circunstâncias, se as circunstâncias ao seu redor forçam para que elas mudem."                                                                       ***by:  O Lobo de Wall Street*** 🌍 
+> 🌎 "Os verdadeiramente grandiosos são aqueles que compreendem que não são meros joguetes do destino, mas sim os arquitetos supremos das próprias realizações. Eles forjam realidades a partir das forças que os rodeiam, esculpindo triunfos diante das adversidades. Em um mundo de possibilidades, eles escolhem liderar seus caminhos com destemor, moldando o destino com mãos firmes e convicção inabalável."                                                                       ***by:  Marcus Aurelius*** 🌍 
 
 ## 🚀 ***Redes Sociais*** ##
  <a href = "mailto: rafaellmn@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
