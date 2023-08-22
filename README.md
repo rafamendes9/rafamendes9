@@ -20,10 +20,12 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=nord_dark) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=nord_dark)
 
-  <a href="https://www.github.com/rafamendes9"><div style="display: inline_block">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamendes9&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=16&theme=/>
-
+ <a href="https://www.github.com/rafamendes9"><div style="display: inline_block">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamendes9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=16&theme=dark"/>
+ 
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafamendes9&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   
    <hr />
 
 ## 🚀 ***Redes Sociais*** ##
