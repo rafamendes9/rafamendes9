@@ -19,7 +19,7 @@
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=nord_dark) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=nord_dark)
-
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rafamendes9&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
    <hr />
 
