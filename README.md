@@ -34,46 +34,25 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
   ## 🛠 ***Ferramentas*** ## 
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
   ![Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
  
-  ## ***Java*** ##
- 
- ```
- public class ola{
-  public static void main(String[]args){
-   System.out.println("Interesse");
-  }
- }
- ```
+ <hr />
 
- ## ***Python*** ##
- 
- ```
- print("Interesse")
- ```
- ## ***CSS*** ##
- 
- ```
- console.log("Interesse")
- ```
- 
- ## ***HTML*** ##
- 
- ```
- console.log("Interesse")
- ```
- 
- ## ***JavaScript*** ##
- 
- ```
- console.log("Interesse")
- ```
- 
- 
+  ## 🖥️ ***Operating systems*** ##  
+   
+   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Microsoft-Windows_10-10?style=for-the-badge&logo=windows&logoColor=white)
+   
+  <hr /> 
+
  ## ***Visitas no perfil Github*** ##
 
 <!-- visitors count  -->
