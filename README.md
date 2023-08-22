@@ -1,5 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+<h1 align="center">
+  <a href="https://github.com/rafamendes9">
+    <img src="https://readme-typing-svg.herokuapp.com/?&color=%#f5c121&lines=Hello,+World!+👋;I'm+Rafaell+Mendes+...;I'm+Computer+Scientist+&center=true&size=31">
+  </a>
+
+
 # ***Olá mundo, sou Rafaell Mendes!*** 🧑‍💻  # 
 
 - Sou estudante de bacharelado em Ciência da Computação | ***UNICAP***.
