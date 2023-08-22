@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://github.com/rafamendes9">
-    <img src="https://readme-typing-svg.herokuapp.com/?&color=%f5c121&lines=Hello,+World!+👋;I'm+Rafaell+Mendes+...;I'm+Computer+Scientist+&center=true&size=31">
+    <img src="https://readme-typing-svg.herokuapp.com/?&color=%23f5c121&lines=Hello,+World!+👋;I'm+Rafaell+Mendes+...;I'm+Computer+Scientist+&center=true&size=31">
   </a>
 
 
