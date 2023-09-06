@@ -13,14 +13,19 @@
 
 > 🌎 "Os verdadeiramente grandiosos são aqueles que compreendem que não são meros joguetes do destino, mas sim os arquitetos supremos das próprias realizações. Eles forjam realidades a partir das forças que os rodeiam, esculpindo triunfos diante das adversidades. Em um mundo de possibilidades, eles escolhem liderar seus caminhos com destemor, moldando o destino com mãos firmes e convicção inabalável."                                                                       ***by:  Marcus Aurelius*** 🌍 
 
+  
   <hr />
 
   ## 🚀 ***Github analyze*** ##
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=nord_dark) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=nord_dark)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rafamendes9&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+ <a href="https://www.github.com/rafamendes9"><div style="display: inline_block">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamendes9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=16&theme=dark"/>
+ 
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafamendes9&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   
    <hr />
 
 ## 🚀 ***Redes Sociais*** ##
