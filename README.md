@@ -34,7 +34,7 @@
  <a href = "mailto: rafaellmn@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  <a href="https://github.com/rafamendes9"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://instagram.com/rafamendes9"> <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/rafaell-mendes-766b5a242/"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+ <a href="https://www.linkedin.com/in/rafamendes9"> <img height="23em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 
 ## 👨🏻‍💻 ***Tecnologias*** ##
