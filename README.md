@@ -8,6 +8,8 @@
 
 # ***Olá mundo, sou Rafaell Mendes!*** # 
 
+
+
 - Sou estudante de bacharelado em Ciência da Computação | ***UNICAP***.
 - Sou Operador autonomo na bolsa de valores | ***ANBIMA***.
 
