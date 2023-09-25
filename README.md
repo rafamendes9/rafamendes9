@@ -30,6 +30,7 @@
    <hr />
 
 ## 🚀 ***Redes Sociais*** ##
+### Entre em contato via
  <a href = "mailto: rafaellmn@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  <a href="https://github.com/rafamendes9"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://instagram.com/rafamendes9"> <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -74,6 +75,16 @@
    
   <hr /> 
 
+<div>
+ 
+ ## ***Cobrinha do commit*** ##
+
+<!-- github workflow  -->
+ 
+ ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
+
  ## ***Visitas no perfil Github*** ##
 
 <!-- visitors count  -->
@@ -84,12 +95,3 @@
 
 </div>
 
-<div>
- 
- ## ***Snake Game*** ##
-
-<!-- github workflow  -->
- 
- ![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
-
- </div>
