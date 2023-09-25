@@ -20,12 +20,12 @@
 
   ## 🔍 ***Github analyze*** ##
   <a href="https://www.github.com/rafamendes9"><div style="display: inline_block">  
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamendes9&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true&hide=contribs,issues,prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=20&theme=vision-friendly-dark&hide=lua"/>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=dark) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=dark)
+ 	<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafamendes9&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=20&theme=gruvbox&hide=lua"/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=gruvbox) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=gruvbox)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafamendes9&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafamendes9&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
    <hr />
 
