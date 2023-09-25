@@ -18,7 +18,7 @@
 
   ## 🚀 ***Github analyze*** ##
   <a href="https://www.github.com/rafamendes9"><div style="display: inline_block">  
- 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamendes9&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true&hide=contribs,issues"/>
+ 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamendes9&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true&hide=contribs,issues,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=20&theme=vision-friendly-dark&hide=lua"/>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=dark) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=dark)
