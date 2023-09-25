@@ -8,6 +8,8 @@
 
 # ***Olá mundo, sou Rafaell Mendes!*** # 
 # <span style="color:red">Olá mundo, sou Rafaell Mendes!</span>
+# <span style="color: blue;">Texto em azul</span> #
+## <span style="color: red;">Texto em vermelho</span>
 
 
 
