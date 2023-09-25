@@ -7,7 +7,8 @@
 
 
 # ***Olá mundo, sou Rafaell Mendes!*** # 
-#<span style="color:red">Texto em vermelho</span>
+# <span style="color:red">Olá mundo, sou Rafaell Mendes!</span>
+
 
 
 - Sou estudante de bacharelado em Ciência da Computação | ***UNICAP***.
