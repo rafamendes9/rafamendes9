@@ -20,8 +20,8 @@
 
   ## 🔍 ***Github analyze*** ##
   <a href="https://www.github.com/rafamendes9"><div style="display: inline_block">  
- 	<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafamendes9&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=20&theme=gruvbox&hide=lua"/>
+ 	<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafamendes9&theme=gruvbox"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=20&theme=gruvbox&hide=lua"/>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=gruvbox) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=gruvbox)
 
