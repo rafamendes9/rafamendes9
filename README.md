@@ -22,6 +22,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=20&theme=vision-friendly-dark&hide=lua"/>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=dark) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=dark)
+
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafamendes9&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
    <hr />
