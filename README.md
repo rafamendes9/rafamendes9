@@ -18,7 +18,7 @@
   
   <hr />
 
-  ## 🚀 ***Github analyze*** ##
+  ## 🔍 ***Github analyze*** ##
   <a href="https://www.github.com/rafamendes9"><div style="display: inline_block">  
  	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafamendes9&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true&hide=contribs,issues,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamendes9&layout=compact&langs_count=20&theme=vision-friendly-dark&hide=lua"/>
@@ -29,8 +29,8 @@
 
    <hr />
 
-## 🚀 ***Redes Sociais*** ##
-### Entre em contato via
+## 🚀 ***Entre em contato através das minhas redes sociais*** ##
+
  <a href = "mailto: rafaellmn@hotmail.com"> <img height="20" src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  <a href="https://github.com/rafamendes9"> <img height="25em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://instagram.com/rafamendes9"> <img height="23em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -58,7 +58,7 @@
   ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## 🛠 ***Design*** ## 
+## 🎨 ***Design*** ## 
   ![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
   ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -77,7 +77,7 @@
 
 <div>
  
- ## ***Cobrinha do commit*** ##
+ ## 🐍 ***Cobrinha do commit*** ##
 
 <!-- github workflow  -->
  
@@ -85,7 +85,7 @@
 
  </div>
 
- ## ***Visitas no perfil Github*** ##
+ ## 🌍 ***Visitas no perfil Github*** ##
 
 <!-- visitors count  -->
 
