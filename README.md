@@ -25,10 +25,8 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafamendes9&hide=Html&theme=gruvbox) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=gruvbox)
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafamendes9&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
   
+  [![GitHub Streak](https://streak-stats.demolab.com?user=rafamendes9&theme=gruvbox&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
    <hr />
