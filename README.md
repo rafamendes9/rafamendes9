@@ -26,12 +26,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafamendes9&theme=gruvbox)
 
   
- 
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=rafamendes9&theme=gruvbox&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-
 
 
    <hr />
