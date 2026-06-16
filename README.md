@@ -10,8 +10,9 @@
 
 
 
-- Ciência da Computação | ***UNICAP***.
-- Sou Operador na bolsa de valores | ***ANBIMA***.
+- Cientista da Computação | ***UNICAP***.
+- Operador de Bolsa de Valores | ***ANBIMA***.
+- Corretor Imobiliario | ***CRECI***.
 
 > 🌎 "Os verdadeiramente grandiosos são aqueles que compreendem que não são meros joguetes do destino, mas sim os arquitetos supremos das próprias realizações. Eles forjam realidades a partir das forças que os rodeiam, esculpindo triunfos diante das adversidades. Em um mundo de possibilidades, eles escolhem liderar seus caminhos com destemor, moldando o destino com mãos firmes e convicção inabalável."                                                                       ***by:  Marcus Aurelius*** 🌍
 
